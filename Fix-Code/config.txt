@@ -1,0 +1,2 @@
+min_val=0.3
+max_val=0.7

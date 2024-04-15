@@ -1,0 +1,8 @@
+﻿  StudentList.cpp
+D:\KHTN\Fix Project\22120120\Fix-Code\StudentList.cpp(38,53): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\KHTN\Fix Project\22120120\Fix-Code\StudentList.cpp(48,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Fix-Code.vcxproj -> D:\KHTN\Fix Project\22120120\x64\Debug\Fix-Code.exe
